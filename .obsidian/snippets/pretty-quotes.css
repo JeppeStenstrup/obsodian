@@ -1,0 +1,36 @@
+.internal-embed .markdown-embed {
+    border: none;
+    padding: 0;
+}
+
+.internal-embed .markdown-embed-title {
+    display: none;
+    height: 0px;
+    max-height: 0px;
+    line-height: 0px;
+}
+
+.markdown-preview-view blockquote {
+    border: none;
+    padding: 0;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer>div {
+    padding: 0;
+}
+
+.markdown-preview-view .markdown-preview-sizer {
+    padding: 0;
+}
+
+.tag-pane-tag-count {
+    padding: 3px !important;
+}
+
+.tree-item-self .tree-item-icon {
+    margin-inline-start: 0;
+}
+
+.tree-item-self .collapse-icon {
+    width: auto !important;
+}
