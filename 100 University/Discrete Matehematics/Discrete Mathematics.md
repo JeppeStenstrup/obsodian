@@ -2,6 +2,9 @@
 
 # Discrete Mathematics
 
+Resources:
+[[Discrete Mathematics and its applications]]
+
 ## Top level notes
 - 
 

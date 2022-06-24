@@ -1,16 +1,21 @@
 [[100 University]]
 
-- # Contents
-	- ## Subjects
-		- [[Architecture]]
-		- [[Documentation]]
-		- [[Architecture Tradeoff Analysis Method|ATAM]]
-	- ## MOCs
-		- [[Lecture MOC]]
-		- [[Concepts MOC]]
-		- [[Quality Attribute MOC]]
-		- [[Views MOC]]
-		- [[Architectural Solutions MOC]]
+# Software Architecture
+
+Resources:
+[[Software Architecture in Practice 4th (Full)]]
+[[Software Architecture in Practice 4th (Rough Cut)]]
+
+## Top level notes
+- [[Architecture]]
+- [[Documentation]]
+- [[Architecture Tradeoff Analysis Method|ATAM]]
+## MOCs
+- [[Lecture MOC]]
+- [[Concepts MOC]]
+- [[Quality Attribute MOC]]
+- [[Views MOC]]
+- [[Architectural Solutions MOC]]
 
 ---
 

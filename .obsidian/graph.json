@@ -1,17 +1,31 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "file:000 Home",
+      "color": {
+        "a": 1,
+        "rgb": 5092095
+      }
+    },
     {
       "query": "path:\"100 University/Algorithms and Datastructures\"",
       "color": {
         "a": 1,
         "rgb": 6057983
+      }
+    },
+    {
+      "query": "path:\"100 University/Discrete Matehematics\"",
+      "color": {
+        "a": 1,
+        "rgb": 16734145
       }
     },
     {
@@ -22,10 +36,38 @@
       }
     },
     {
+      "query": "path:\"100 University/Project Management\"",
+      "color": {
+        "a": 1,
+        "rgb": 6216133
+      }
+    },
+    {
       "query": "path:\"100 University/Ingeniørfagets Videskabsteori\"",
       "color": {
         "a": 1,
         "rgb": 15038172
+      }
+    },
+    {
+      "query": "path:\"999 Quotes\"",
+      "color": {
+        "a": 1,
+        "rgb": 16380755
+      }
+    },
+    {
+      "query": "path:\"999 Authors\"",
+      "color": {
+        "a": 1,
+        "rgb": 16380755
+      }
+    },
+    {
+      "query": "path:\"999 Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 16380755
       }
     }
   ],
@@ -39,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.258838656218163,
-  "close": false
+  "scale": 0.2588386562181633,
+  "close": true
 }

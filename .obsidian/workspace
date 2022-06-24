@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "999 Quotes/Integration is a basic law of life; when we resist it, disintegration is the natural result.md",
-            "mode": "source",
-            "source": true
+            "file": "100 University.md",
+            "mode": "source"
           }
         }
       }
@@ -50,6 +49,47 @@
             }
           }
         ]
+      },
+      {
+        "id": "00c5e639c1e67992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872f23ccfbd62bae",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "100 University.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858122,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Quotes/Integration is a basic law of life; when we resist it, disintegration is the natural result.md",
+                "file": "100 University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f9bcb49403a05432",
   "lastOpenFiles": [
-    "999 Quotes/Integration is a basic law of life; when we resist it, disintegration is the natural result.md",
-    "999 Quotes/Energy is a bit like money If you have a positive balance, you can distribute it in various ways.md",
+    "100 University.md",
     "000 Home.md",
-    "999 Quotes/This makes me realize I'm going through life a little bit too quiet.md",
-    "999 Quotes/Some debts are fun when you are acquiring them, but none are fun when you set about retiring them.md",
-    "999 Quotes/Just capture things throughout your day, and write them down!-stavidjon01.md",
-    "999 Quotes/Just capture things throughout your day, and write them down!.md",
-    "999 Quotes/An ounce of performance is worth pounds of promises..md",
-    "999 Quotes/It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change..md",
-    "+Inspiration.md"
+    "100 University/Project Management/Project Management.md",
+    "100 University/Software Architecture/Software Architecture.md",
+    "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md",
+    "100 University/Ingeniørfagets Videskabsteori/Ingeniørfagets videnskabsteori.md",
+    "100 University/Discrete Matehematics/Discrete Mathematics.md",
+    "999 Resources/Software Architecture in Practice 4th (Full).md",
+    "999 Resources/Software Architecture in Practice 4th (Rough Cut).md",
+    "999 Resources/Project Management - The Managerial Process.md"
   ]
 }
