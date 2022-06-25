@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100 University.md",
+            "file": "200 Technology/Privacy/Federated Learning of Cohorts.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "371eb987c048fc60"
+      },
+      {
+        "id": "218283271f4d7712",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200 Technology/Privacy/Federated Learning of Cohorts.md",
+            "mode": "preview"
+          }
+        },
+        "group": "371eb987c048fc60"
       }
     ],
     "direction": "vertical"
@@ -49,10 +62,43 @@
             }
           }
         ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "08ad1022288377b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8152e795be15e043",
+        "type": "tabs",
+        "dimension": 69.22300706357215,
+        "children": [
+          {
+            "id": "efff1f99a0d919d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 Technology/Privacy/Federated Learning of Cohorts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "00c5e639c1e67992",
+        "id": "d293878f7e318d33",
         "type": "tabs",
+        "dimension": 30.77699293642785,
         "children": [
           {
             "id": "872f23ccfbd62bae",
@@ -60,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 University.md",
+                "file": "200 Technology/Privacy/Federated Learning of Cohorts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,49 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "right": {
-    "id": "08ad1022288377b2",
-    "type": "split",
-    "children": [
-      {
-        "id": "8152e795be15e043",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efff1f99a0d919d5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "100 University.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
   "active": "f9bcb49403a05432",
   "lastOpenFiles": [
+    "200 Technology/Privacy/Federated Learning of Cohorts.md",
+    "200 Technology.md",
     "100 University.md",
     "000 Home.md",
-    "100 University/Project Management/Project Management.md",
-    "100 University/Software Architecture/Software Architecture.md",
     "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md",
-    "100 University/Ingeniørfagets Videskabsteori/Ingeniørfagets videnskabsteori.md",
     "100 University/Discrete Matehematics/Discrete Mathematics.md",
-    "999 Resources/Software Architecture in Practice 4th (Full).md",
-    "999 Resources/Software Architecture in Practice 4th (Rough Cut).md",
-    "999 Resources/Project Management - The Managerial Process.md"
+    "100 University/Software Architecture/Software Architecture.md",
+    "100 University/Algorithms and Datastructures/MOCs/AD Proofs MOC.md",
+    "100 University/Algorithms and Datastructures/MOCs/Minimum Spanning Trees MOC.md",
+    "100 University/Algorithms and Datastructures/Prim-Jarnik MST Algorithm.md"
   ]
 }

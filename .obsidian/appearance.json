@@ -1,7 +1,11 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Al Dente",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "pretty-quotes"
-  ]
+    "pretty-quotes",
+    "general"
+  ],
+  "interfaceFontFamily": "Segoe UI",
+  "textFontFamily": "Segoe UI",
+  "translucency": false
 }
