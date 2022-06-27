@@ -1,3 +1,7 @@
 .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6 {
     margin-bottom: 0;
 }
+
+div>ol, div>ul {
+    margin-top: 0;
+}

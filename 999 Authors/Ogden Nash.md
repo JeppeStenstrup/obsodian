@@ -1,4 +1,4 @@
-#### Material by Ogden Nash
+# Material by Ogden Nash
 ```dataview
 	table from [[Ogden Nash]]
 ```

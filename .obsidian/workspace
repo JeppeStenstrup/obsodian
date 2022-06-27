@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b73b3ffdeb25de",
+        "id": "622eb1fbb299cef7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "productivity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7b73b3ffdeb25de",
+  "active": "622eb1fbb299cef7",
   "lastOpenFiles": [
     "000 Home.md",
-    "Why project management is crucial.md",
-    "100 University/Project Management/Project Management.md",
     "100 University.md",
-    "200 Technology/Privacy/Federated Learning of Cohorts.md",
-    "200 Technology.md",
     "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md",
-    "100 University/Discrete Matehematics/Discrete Mathematics.md",
-    "100 University/Software Architecture/Software Architecture.md",
-    "100 University/Algorithms and Datastructures/MOCs/AD Proofs MOC.md"
+    "100 University/Algorithms and Datastructures/Runtime.md",
+    "100 University/Algorithms and Datastructures/Dynamic Programming.md",
+    "200 Technology.md",
+    "200 Technology/Programming/MOCs/C Sharp.md",
+    "200 Technology/Programming/Record.md",
+    "200 Technology/Programming/XML Serialization.md",
+    "200 Technology/Programming/MediatR.md"
   ]
 }

@@ -4,5 +4,9 @@
   "better-word-count",
   "table-editor-obsidian",
   "sliding-panes-obsidian",
-  "homepage"
+  "homepage",
+  "templater-obsidian",
+  "obsidian-embedded-code-title",
+  "obsidian-footnotes",
+  "oz-image-plugin"
 ]

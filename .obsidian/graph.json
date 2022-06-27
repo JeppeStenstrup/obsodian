@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:_templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:000 Home",
@@ -15,38 +15,17 @@
       }
     },
     {
-      "query": "path:\"100 University/Algorithms and Datastructures\"",
+      "query": "path:\"100 University\"",
       "color": {
         "a": 1,
-        "rgb": 6057983
+        "rgb": 9495713
       }
     },
     {
-      "query": "path:\"100 University/Discrete Matehematics\"",
+      "query": "path:\"200 Technology\"",
       "color": {
         "a": 1,
-        "rgb": 16734145
-      }
-    },
-    {
-      "query": "path:\"100 University/Software Architecture\"",
-      "color": {
-        "a": 1,
-        "rgb": 7792008
-      }
-    },
-    {
-      "query": "path:\"100 University/Project Management\"",
-      "color": {
-        "a": 1,
-        "rgb": 6216133
-      }
-    },
-    {
-      "query": "path:\"100 University/Ingeniørfagets Videskabsteori\"",
-      "color": {
-        "a": 1,
-        "rgb": 15038172
+        "rgb": 12227553
       }
     },
     {
@@ -69,11 +48,18 @@
         "a": 1,
         "rgb": 16380755
       }
+    },
+    {
+      "query": "-path:/",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -81,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181633,
-  "close": true
+  "scale": 0.25883865621816377,
+  "close": false
 }

@@ -5,6 +5,6 @@ aliases: MST
 [[AD Proofs MOC]]
 
 # Minimum Spanning Trees MOC
-# Algorithms
+## Algorithms
 - [[Prim-Jarnik MST Algorithm]]
 - [[Kruskal's algorithm]]
