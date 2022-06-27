@@ -2,4 +2,5 @@
 
 # Technology
 ## Privacy
+- [[Cookies]]
 - [[Federated Learning of Cohorts]]

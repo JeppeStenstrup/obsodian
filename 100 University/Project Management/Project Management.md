@@ -7,7 +7,7 @@ Resources:
 [[William Ellet - The case study handbook]]
 
 ## Top level notes
-- 
+- [[Why project management is crucial]]
 ## MOCs
 - 
 

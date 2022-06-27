@@ -1,1 +1,10 @@
-{}
+{
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ]
+}

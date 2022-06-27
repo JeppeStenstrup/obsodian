@@ -3,5 +3,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "communityThemeSortOrder": "release"
+  "communityThemeSortOrder": "release",
+  "spellcheck": true
 }
