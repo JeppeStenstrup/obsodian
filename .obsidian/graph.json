@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:000 Home",
@@ -50,14 +50,14 @@
       }
     },
     {
-      "query": "-path:/",
+      "query": "path:\"000 Daily Notes\"",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 16731582
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816377,
+  "scale": 0.2588386562181641,
   "close": false
 }

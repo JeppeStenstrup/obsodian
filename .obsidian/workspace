@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "622eb1fbb299cef7",
+        "id": "e005c05f196544a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "200 Technology.md",
             "mode": "preview"
           }
         }
@@ -24,6 +24,7 @@
       {
         "id": "d854272046955471",
         "type": "tabs",
+        "dimension": 69.96497373029771,
         "children": [
           {
             "id": "05ad99d333413f3d",
@@ -49,6 +50,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "dd045c57ba982b97",
+        "type": "tabs",
+        "dimension": 30.035026269702275,
+        "children": [
+          {
+            "id": "9ceadde9c337a044",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "200 Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "200 Technology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "622eb1fbb299cef7",
+  "active": "e005c05f196544a0",
   "lastOpenFiles": [
+    "200 Technology.md",
     "000 Home.md",
+    "000 Daily Notes/27-06-2022.md",
+    "_templates/Daily Notes template.md",
+    "000 Daily Notes/Untitled.md",
     "100 University.md",
     "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md",
     "100 University/Algorithms and Datastructures/Runtime.md",
     "100 University/Algorithms and Datastructures/Dynamic Programming.md",
-    "200 Technology.md",
-    "200 Technology/Programming/MOCs/C Sharp.md",
-    "200 Technology/Programming/Record.md",
-    "200 Technology/Programming/XML Serialization.md",
-    "200 Technology/Programming/MediatR.md"
+    "200 Technology/Programming/MOCs/C Sharp.md"
   ]
 }
