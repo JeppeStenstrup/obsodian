@@ -2,6 +2,18 @@
 
 # XML Serialization
 Serialize an XML document into C# objects.
+```cs:C#
+using System.Xml.Serialization;
+```
+
+## Further
+- [[XML Arrays]]
+
+## Tasks
+- [[Xml configs to serialize]]
+
+
+## Example
 
 ```xml:XML
 <Cars>

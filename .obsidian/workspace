@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9376238207affa4a",
+        "id": "e005c05f196544a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/28-06-2022.md",
-            "mode": "source"
+            "file": "200 Technology/Programming/Xml configs to serialize.md",
+            "mode": "preview"
           }
         }
       }
@@ -24,7 +24,7 @@
       {
         "id": "d854272046955471",
         "type": "tabs",
-        "dimension": 69.96497373029773,
+        "dimension": 69.96497373029771,
         "children": [
           {
             "id": "05ad99d333413f3d",
@@ -54,7 +54,7 @@
       {
         "id": "dd045c57ba982b97",
         "type": "tabs",
-        "dimension": 30.03502626970228,
+        "dimension": 30.035026269702275,
         "children": [
           {
             "id": "9ceadde9c337a044",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/28-06-2022.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/28-06-2022.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9376238207affa4a",
+  "active": "e005c05f196544a0",
   "lastOpenFiles": [
+    "200 Technology/Programming/Xml configs to serialize.md",
+    "200 Technology/Programming/XML Serialization.md",
+    "200 Technology/Programming/XML Arrays.md",
+    "200 Technology/Game Development/BSP.md",
     "000 Daily Notes/28-06-2022.md",
-    "000 Home.md",
+    "999 Resources/Clean Code - A Handbook of Agile Software Craftnandship.md",
+    "200 Technology/Programming/MOCs/C Sharp.md",
     "200 Technology.md",
     "200 Technology/Game Development/MOCs/Unreal Engine.md",
-    "BSP.md",
-    "000 Daily Notes/27-06-2022.md",
-    "_templates/Daily Notes template.md",
-    "000 Daily Notes/Untitled.md",
-    "100 University.md",
-    "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md"
+    "000 Home.md"
   ]
 }
