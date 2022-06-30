@@ -15,3 +15,4 @@ aliases: C#
 - [[Command Query Responsibility Segregation]]
 - [[Parameter Binding]]
 - [[XML Serialization]]
+- [[Coloring the console]]

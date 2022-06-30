@@ -22,10 +22,8 @@
 - [x] gitconsol.cfg, gitconsol.master
 - [x] ideascli.cfg, ideascli.master
 - [x] ideasclimapid.cfg, ideasclimapid.master
-- [ ] ideasrtm.cfg, ideasrtm.master
+- [x] ideasrtm.cfg, ideasrtm.master
 - [ ] ideassrv.cfg, ideassrv.master
-- [ ] ideassrv.cfg, ideassrv.master
-- [ ] ideassrv.proxy.cfg, ideassrv.master
 - [ ] ideassrv.proxy.cfg, ideassrv.master
 - [ ] inetconsol.cfg, inetconsol.master
 - [ ] marketdata_avgprice.cfg, marketdata_avgprice.master
