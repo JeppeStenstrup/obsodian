@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d59018e1311c93e4",
+        "id": "4c6219a136aaa776",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "200 Technology.md",
-            "mode": "preview"
+            "file": "000 Daily Notes/01-07-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Technology.md",
+                "file": "000 Daily Notes/01-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Technology.md",
+                "file": "000 Daily Notes/01-07-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d59018e1311c93e4",
+  "active": "4c6219a136aaa776",
   "lastOpenFiles": [
+    "000 Daily Notes/01-07-2022.md",
+    "Untitled.md",
     "200 Technology.md",
     "000 Home.md",
     "200 Technology/Programming/MOCs/C Sharp.md",
@@ -154,8 +156,6 @@
     "200 Technology/Programming/Xml configs to serialize.md",
     "000 Daily Notes/30-06-2022.md",
     "000 Daily Notes/29-06-2022.md",
-    "999 Resources/The Deadline Effect - How to Work Like It's the Last Minute.md",
-    "999 Resources/Clean Code - A Handbook of Agile Software Craftmandship.md",
-    "200 Technology/Game Development/MOCs/Unreal Engine.md"
+    "999 Resources/The Deadline Effect - How to Work Like It's the Last Minute.md"
   ]
 }
