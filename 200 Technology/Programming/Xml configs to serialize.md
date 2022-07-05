@@ -2,7 +2,7 @@
 
 - [x] bdlink.cfg, bdlink.master
 - [x] becbolink.cfg, becbolink.master
-- [ ] brokerfixtesthost.cfg, brokerfixtesthost.master
+- [ ] **Ikke XML**: brokerfixtesthost.cfg, brokerfixtesthost.master
 - [x] broker_alo.cfg, broker_alo.master
 - [x] broker_bnym.cfg, broker_bnym.master
 - [x] broker_ddb.cfg, broker_ddb.master
@@ -17,31 +17,30 @@
 - [x] enum_inet.cfg, enum_inet.master
 - [x] environment.cfg, environment.master
 - [x] environment_proxy.cfg, environment_proxy.master
-- [ ] fixengineconfig.cfg, fixengineconfig.master
+- [ ] **Ikke XML**: fixengineconfig.cfg, fixengineconfig.master
 - [x] geniumtradeconsol.cfg, geniumtradeconsol.master
 - [x] gitconsol.cfg, gitconsol.master
 - [x] ideascli.cfg, ideascli.master
 - [x] ideasclimapid.cfg, ideasclimapid.master
 - [x] ideasrtm.cfg, ideasrtm.master
-- [ ] ideassrv.cfg, ideassrv.master
-- [ ] ideassrv.proxy.cfg, ideassrv.master
-- [ ] inetconsol.cfg, inetconsol.master
-- [ ] marketdata_avgprice.cfg, marketdata_avgprice.master
-- [ ] marketdata_bbo.cfg, marketdata_bbo.master
-- [ ] marketdata_closingprice.cfg, marketdata_closingprice.master
-- [ ] marketdata_instrstate.cfg, marketdata_instrstate.master
-- [ ] marketdata_lastpaid.cfg, marketdata_lastpaid.master
-- [ ] nyklink.cfg, nyklink.master
-- [ ] pmlink.cfg, pmlink.master
-- [ ] poslink.cfg, poslink.master
-- [ ] posttradingconsol.cfg, posttradingconsol.master
-- [ ] proxysrv.cfg, proxysrv.master
-- [ ] role.cfg, role.master
-- [ ] role.cfg, role.master
-- [ ] sdclink.cfg, sdclink.master
-- [ ] serverid.cfg, serverid.master
-- [ ] sharedconfig.cfg, sharedconfig.master
-- [ ] summitlink.cfg, summitlink.master
-- [ ] systemsetup.cfg, systemsetup.master
-- [ ] testpeers.cfg, testpeers.master
-- [ ] tradeexport.cfg, tradeexport.master
+- [ ] **_ideassrv.cfg, ideassrv.master_**
+- [ ] **_ideassrv.proxy.cfg, ideassrv.master_**
+- [x] inetconsol.cfg, inetconsol.master
+- [x] marketdata_avgprice.cfg, marketdata_avgprice.master
+- [x] marketdata_bbo.cfg, marketdata_bbo.master
+- [x] marketdata_closingprice.cfg, marketdata_closingprice.master
+- [x] marketdata_instrstate.cfg, marketdata_instrstate.master
+- [x] marketdata_lastpaid.cfg, marketdata_lastpaid.master
+- [x] nyklink.cfg, nyklink.master
+- [x] pmlink.cfg, pmlink.master
+- [x] poslink.cfg, poslink.master
+- [x] posttradingconsol.cfg, posttradingconsol.master
+- [ ] **_proxysrv.cfg, proxysrv.master_**
+- [x] role.cfg, role.master
+- [x] sdclink.cfg, sdclink.master
+- [x] serverid.cfg, serverid.master
+- [x] sharedconfig.cfg, sharedconfig.master
+- [x] summitlink.cfg, summitlink.master
+- [x] systemsetup.cfg, systemsetup.master
+- [x] testpeers.cfg, testpeers.master
+- [x] tradeexport.cfg, tradeexport.master

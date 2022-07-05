@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6219a136aaa776",
+        "id": "67d61fe9602b9021",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/01-07-2022.md",
-            "mode": "source"
+            "file": "200 Technology/Programming/Xml configs to serialize.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/01-07-2022.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/01-07-2022.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c6219a136aaa776",
+  "active": "67d61fe9602b9021",
   "lastOpenFiles": [
-    "000 Daily Notes/01-07-2022.md",
-    "Untitled.md",
-    "200 Technology.md",
-    "000 Home.md",
-    "200 Technology/Programming/MOCs/C Sharp.md",
-    "200 Technology/Programming/Coloring the console.md",
     "200 Technology/Programming/Xml configs to serialize.md",
-    "000 Daily Notes/30-06-2022.md",
-    "000 Daily Notes/29-06-2022.md",
-    "999 Resources/The Deadline Effect - How to Work Like It's the Last Minute.md"
+    "000 Daily Notes/05-07-2022.md",
+    "000 Daily Notes/04-07-2022.md",
+    "05-07-2022.md",
+    "999 Resources/The Deadline Effect - How to Work Like It's the Last Minute.md",
+    "Inspiration.md",
+    "999 Resources/Unreal Engine 4 Game Development Essentials.md",
+    "999 Resources/William Ellet - The case study handbook.md",
+    "999 Resources/Software Architecture in Practice 4th (Rough Cut).md",
+    "999 Resources/Software Architecture in Practice 4th (Full).md"
   ]
 }
