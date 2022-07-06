@@ -23,8 +23,8 @@
 - [x] ideascli.cfg, ideascli.master
 - [x] ideasclimapid.cfg, ideasclimapid.master
 - [x] ideasrtm.cfg, ideasrtm.master
-- [ ] **_ideassrv.cfg, ideassrv.master_**
-- [ ] **_ideassrv.proxy.cfg, ideassrv.master_**
+- [x] ideassrv.cfg, ideassrv.master
+- [x] ideassrv.proxy.cfg, ideassrv.master
 - [x] inetconsol.cfg, inetconsol.master
 - [x] marketdata_avgprice.cfg, marketdata_avgprice.master
 - [x] marketdata_bbo.cfg, marketdata_bbo.master

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "200 Technology/Programming/Xml configs to serialize.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,15 +147,15 @@
   },
   "active": "20e69661db4d891a",
   "lastOpenFiles": [
-    "000 Home.md",
     "200 Technology/Programming/Xml configs to serialize.md",
+    "000 Daily Notes/06-07-2022.md",
+    "Lost passion.md",
     "000 Daily Notes/05-07-2022.md",
+    "000 Home.md",
     "999 Tags/Computer Science.md",
     "999 Tags/Programming.md",
     "999 Tags/Inspiration.md",
     "000 Daily Notes/05-07-2022 1.md",
-    "000 Daily Notes/04-07-2022.md",
-    "999 Resources/The Deadline Effect - How to Work Like It's the Last Minute.md",
-    "999 Resources/Unreal Engine 4 Game Development Essentials.md"
+    "000 Daily Notes/04-07-2022.md"
   ]
 }
