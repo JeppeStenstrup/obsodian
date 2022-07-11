@@ -1,7 +1,3 @@
----
-tags: tag
----
-
 # <% await tp.file.title %>
 
 ```dataview

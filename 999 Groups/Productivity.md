@@ -1,7 +1,3 @@
----
-tags: tag
----
-
 # Productivity
 
 ```dataview

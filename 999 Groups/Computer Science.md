@@ -1,7 +1,3 @@
----
-tags: tag
----
-
 # Computer Science
 
 ```dataview

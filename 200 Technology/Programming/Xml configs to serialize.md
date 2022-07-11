@@ -35,7 +35,7 @@
 - [x] pmlink.cfg, pmlink.master
 - [x] poslink.cfg, poslink.master
 - [x] posttradingconsol.cfg, posttradingconsol.master
-- [ ] **_proxysrv.cfg, proxysrv.master_**
+- [x] proxysrv.cfg, proxysrv.master
 - [x] role.cfg, role.master
 - [x] sdclink.cfg, sdclink.master
 - [x] serverid.cfg, serverid.master

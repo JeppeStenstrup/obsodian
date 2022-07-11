@@ -29,6 +29,13 @@
       }
     },
     {
+      "query": "path:\"300 Gaming\"",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
       "query": "path:\"999 Quotes\"",
       "color": {
         "a": 1,
@@ -54,13 +61,6 @@
       "color": {
         "a": 1,
         "rgb": 16731582
-      }
-    },
-    {
-      "query": "tag:#tag",
-      "color": {
-        "a": 1,
-        "rgb": 0
       }
     }
   ],

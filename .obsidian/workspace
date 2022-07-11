@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20e69661db4d891a",
+        "id": "c5c14d3a45d78de0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "200 Technology/Programming/Xml configs to serialize.md",
-            "mode": "preview"
+            "file": "000 Daily Notes/11-07-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "productivity",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Technology/Programming/Xml configs to serialize.md",
+                "file": "000 Daily Notes/11-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ac6b023623505de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -109,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Technology/Programming/Xml configs to serialize.md",
+                "file": "000 Daily Notes/11-07-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,20 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "20e69661db4d891a",
+  "active": "c5c14d3a45d78de0",
   "lastOpenFiles": [
+    "000 Daily Notes/11-07-2022.md",
     "200 Technology/Programming/Xml configs to serialize.md",
-    "000 Daily Notes/06-07-2022.md",
-    "Lost passion.md",
-    "000 Daily Notes/05-07-2022.md",
-    "000 Home.md",
-    "999 Tags/Computer Science.md",
-    "999 Tags/Programming.md",
-    "999 Tags/Inspiration.md",
-    "000 Daily Notes/05-07-2022 1.md",
-    "000 Daily Notes/04-07-2022.md"
+    "300 Gaming.md",
+    "300 Gaming/Donut County.md",
+    "300 Gaming/The Gunk.md",
+    "300 Gaming/Saints Row 2.md",
+    "300 Gaming/Yakuza 3.md",
+    "300 Gaming/Yakuza 0.md",
+    "300 Gaming/test.md",
+    "_templates/Game Series template.md"
   ]
 }
