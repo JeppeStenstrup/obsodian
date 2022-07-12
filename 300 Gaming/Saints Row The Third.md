@@ -4,10 +4,10 @@
 
 Publisher:: [[Koch Media]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]], [[Single-Player]]
+Tags:: [[Single-Player]]
 Completion:: #game/backlog 
 
-Started:: 30-09-2021
+Started:: 2019-09-30
 Finished:: 
 Rating:: 
 

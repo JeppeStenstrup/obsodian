@@ -4,11 +4,11 @@
 
 Publisher:: [[Koch Media]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]], [[Single-Player]]
+Tags:: [[Single-Player]]
 Completion:: #game/completed 
 
-Started:: 10-09-2022
-Finished:: 26-09-2021
+Started:: 2021-09-10
+Finished:: 2021-09-26
 Rating:: 4.5
 
 Series:: [[Saints Row Game Series]]

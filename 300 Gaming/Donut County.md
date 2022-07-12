@@ -4,11 +4,11 @@
 
 Publisher:: [[Annapurna Interactive]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]], [[Single-Player]]
+Tags:: [[Single-Player]]
 Completion:: #game/completed/100 
 
-Started:: 11-07-2022
-Finished:: 11-07-2022
+Started:: 2022-07-11
+Finished:: 2022-07-11
 Rating:: 3
 
 Series:: 

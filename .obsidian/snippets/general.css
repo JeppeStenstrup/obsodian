@@ -5,3 +5,8 @@
 div>ol, div>ul {
     margin-top: 0;
 }
+
+.markdown-preview-view .table-view-table>tbody>tr>td, .markdown-source-view.mod-cm6 .table-view-table>tbody>tr>td {
+    max-width: var(--max-col-width);
+    vertical-align: top;
+}

@@ -7,7 +7,7 @@ Platform::
 Tags:: 
 Completion:: <%"#"%>game/
 
-Started:: <%tp.date.now("DD-MM-YYYY")%>
+Started:: <%tp.date.now("yyyy-MM-DD")%>
 Finished:: 
 Rating:: 
 

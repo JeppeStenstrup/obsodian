@@ -4,7 +4,7 @@
 
 Publisher:: [[SEGA]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]], [[Single-Player]]
+Tags:: [[Single-Player]]
 Completion:: #game/backlog
 
 Started:: 

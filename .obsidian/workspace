@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "53d4a109f7eaec43",
+        "id": "52856ff0b9d60e27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "300 Gaming.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -131,8 +131,65 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "file:000 Home",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5092095
+                      }
+                    },
+                    {
+                      "query": "path:\"100 University\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9495713
+                      }
+                    },
+                    {
+                      "query": "path:\"200 Technology\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12227553
+                      }
+                    },
+                    {
+                      "query": "path:\"300 Gaming\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16753152
+                      }
+                    },
+                    {
+                      "query": "path:\"999 Quotes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16380755
+                      }
+                    },
+                    {
+                      "query": "path:\"999 Authors\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16380755
+                      }
+                    },
+                    {
+                      "query": "path:\"999 Resources\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16380755
+                      }
+                    },
+                    {
+                      "query": "path:\"000 Daily Notes\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16731582
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -155,17 +212,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53d4a109f7eaec43",
+  "active": "52856ff0b9d60e27",
   "lastOpenFiles": [
     "300 Gaming.md",
-    "300 Gaming/Saints Row Game Series.md",
-    "300 Gaming/Saints Row The Third.md",
-    "_templates/Game Series template.md",
-    "_templates/Game template.md",
-    "300 Gaming/Untitled.md",
+    "200 Technology.md",
     "300 Gaming/Saints Row IV.md",
-    "300 Gaming/Saints Row 2.md",
-    "Lost passion.md",
-    "300 Gaming/Yakuza 6 The Song of Life.md"
+    "Gaming.md",
+    "300 Gaming/Yakuza Like A Dragon.md",
+    "300 Gaming/Yakuza Kiwami.md",
+    "300 Gaming/Yakuza Kiwami 2.md",
+    "300 Gaming/Yakuza 6 The Song of Life.md",
+    "300 Gaming/Yakuza 5.md",
+    "300 Gaming/Yakuza 4.md"
   ]
 }
