@@ -1,15 +1,15 @@
 [[300 Gaming]]
 
-# Saints Row: The Third
+# Saints Row IV
 
 Publisher:: [[Koch Media]]
 Platform:: [[Xbox]]
 Tags:: [[Gaming]], [[Single-Player]]
-Completion:: #game/backlog 
+Completion:: #game/completed 
 
-Started:: 30-09-2021
-Finished:: 
-Rating:: 
+Started:: 31-12-2020
+Finished:: 31-12-2020
+Rating:: 3.5
 
 Series:: [[Saints Row Game Series]]
-SeriesOrder:: 2
+SeriesOrder:: 3
