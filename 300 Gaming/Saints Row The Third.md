@@ -1,15 +1,15 @@
 [[300 Gaming]]
 
-# Yakuza 5
+# Saints Row The Third
 
-Publisher:: [[SEGA]]
+Publisher:: [[Koch Media]]
 Platform:: [[Xbox]]
 Tags:: [[Gaming]], [[Single-Player]]
 Completion:: #game/backlog 
 
-Started:: 
+Started:: 30-09-2021
 Finished:: 
 Rating:: 
 
-Series:: [[Yakuza Game Series]]
-SeriesOrder:: 5
+Series:: [[Saints Row Game Series]]
+SeriesOrder:: 2

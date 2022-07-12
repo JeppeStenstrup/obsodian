@@ -4,7 +4,7 @@
 
 Publisher:: [[Thunderful Publishing]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]] [[Single-Player]]
+Tags:: [[Gaming]], [[Single-Player]]
 Completion:: #game/completed
 
 Started:: 08-07-2022

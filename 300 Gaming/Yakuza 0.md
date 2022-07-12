@@ -4,7 +4,7 @@
 
 Publisher:: [[SEGA]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]] [[Single-Player]]
+Tags:: [[Gaming]], [[Single-Player]]
 Completion:: #game/playing
 
 Started:: 07-07-2022

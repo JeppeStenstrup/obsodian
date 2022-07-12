@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/11-07-2022.md",
-            "mode": "source"
+            "file": "300 Gaming.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/11-07-2022.md",
+                "file": "300 Gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/11-07-2022.md",
+                "file": "300 Gaming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,15 +157,15 @@
   },
   "active": "c5c14d3a45d78de0",
   "lastOpenFiles": [
-    "000 Daily Notes/11-07-2022.md",
-    "200 Technology/Programming/Xml configs to serialize.md",
     "300 Gaming.md",
-    "300 Gaming/Donut County.md",
-    "300 Gaming/The Gunk.md",
+    "300 Gaming/Saints Row The Third.md",
     "300 Gaming/Saints Row 2.md",
-    "300 Gaming/Yakuza 3.md",
-    "300 Gaming/Yakuza 0.md",
-    "300 Gaming/test.md",
-    "_templates/Game Series template.md"
+    "300 Gaming/Saints Row Game Series.md",
+    "Lost passion.md",
+    "300 Gaming/Yakuza 6 The Song of Life.md",
+    "300 Gaming/Yakuza Like A Dragon.md",
+    "300 Gaming/Yakuza 5.md",
+    "300 Gaming/Yakuza 4.md",
+    "300 Gaming/Yakuza 3.md"
   ]
 }

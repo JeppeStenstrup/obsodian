@@ -4,7 +4,7 @@
 
 Publisher:: [[Koch Media]]
 Platform:: [[Xbox]]
-Tags:: [[Gaming]] [[Single-Player]]
+Tags:: [[Gaming]], [[Single-Player]]
 Completion:: #game/completed 
 
 Started:: 10-09-2022
