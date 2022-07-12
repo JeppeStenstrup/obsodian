@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c779b2d7f393b5a4",
+        "id": "53d4a109f7eaec43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "300 Gaming.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -127,7 +127,7 @@
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c779b2d7f393b5a4",
+  "active": "53d4a109f7eaec43",
   "lastOpenFiles": [
     "300 Gaming.md",
-    "300 Gaming/Untitled.md",
-    "_templates/Game template.md",
-    "300 Gaming/Saints Row IV.md",
     "300 Gaming/Saints Row Game Series.md",
     "300 Gaming/Saints Row The Third.md",
+    "_templates/Game Series template.md",
+    "_templates/Game template.md",
+    "300 Gaming/Untitled.md",
+    "300 Gaming/Saints Row IV.md",
     "300 Gaming/Saints Row 2.md",
     "Lost passion.md",
-    "300 Gaming/Yakuza 6 The Song of Life.md",
-    "300 Gaming/Yakuza Like A Dragon.md"
+    "300 Gaming/Yakuza 6 The Song of Life.md"
   ]
 }

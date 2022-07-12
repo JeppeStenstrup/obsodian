@@ -1,4 +1,4 @@
-[[300 Gaming]]
+<%"["%>[300 Gaming]<%"]"%>
 
 Tags:: <%"#"%>game/series
 
