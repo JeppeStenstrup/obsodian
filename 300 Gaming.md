@@ -32,9 +32,8 @@ TABLE without id
     link(file.link, title) as "Game",
 	Tags
 FROM #game/backlog
-WHERE !Started
 LIMIT 10
-SORT Started desc
+SORT SeriesOrder
 ```
 
 ## Series
