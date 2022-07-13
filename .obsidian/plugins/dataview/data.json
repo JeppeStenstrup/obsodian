@@ -5,7 +5,7 @@
   "warnOnEmptyResult": true,
   "refreshEnabled": true,
   "refreshInterval": 2500,
-  "defaultDateFormat": "DDD",
+  "defaultDateFormat": "dd. MMM y",
   "defaultDateTimeFormat": "DDD T",
   "maxRecursiveRenderDepth": 4,
   "tableIdColumnName": "File",

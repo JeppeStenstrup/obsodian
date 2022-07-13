@@ -13,6 +13,17 @@ LIMIT 10
 SORT Started desc
 ```
 
+## Backlog
+```dataview
+TABLE without id
+    link(file.link, title) as "Game",
+	Started,
+	Tags
+FROM #game/backlog
+LIMIT 10
+SORT SeriesOrder
+```
+
 ## Finished
 ```dataview
 TABLE without id
@@ -24,17 +35,6 @@ TABLE without id
 FROM #game/completed
 LIMIT 10
 SORT rating DESC
-```
-
-## Backlog
-```dataview
-TABLE without id
-    link(file.link, title) as "Game",
-	Started,
-	Tags
-FROM #game/backlog
-LIMIT 10
-SORT SeriesOrder
 ```
 
 ## Series
