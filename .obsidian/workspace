@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a6ed02c13fef9064",
+        "id": "9fd491f6735e0fb6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "300 Gaming.md",
+            "file": "000 Home.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Gaming.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300 Gaming.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a6ed02c13fef9064",
+  "active": "9fd491f6735e0fb6",
   "lastOpenFiles": [
     "Co-op.md",
     "300 Gaming.md",
