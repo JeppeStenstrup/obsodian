@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "300 Gaming.md",
+            "file": "000 Daily Notes/13-07-2022.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Gaming.md",
+                "file": "000 Daily Notes/13-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300 Gaming.md",
+                "file": "000 Daily Notes/13-07-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,15 +214,15 @@
   },
   "active": "52856ff0b9d60e27",
   "lastOpenFiles": [
+    "000 Daily Notes/13-07-2022.md",
+    "000 Daily Notes/12-07-2022.md",
+    "000 Daily Notes/11-07-2022.md",
+    "000 Daily Notes/10-07-2022.md",
     "300 Gaming.md",
     "200 Technology.md",
     "300 Gaming/Saints Row IV.md",
     "Gaming.md",
     "300 Gaming/Yakuza Like A Dragon.md",
-    "300 Gaming/Yakuza Kiwami.md",
-    "300 Gaming/Yakuza Kiwami 2.md",
-    "300 Gaming/Yakuza 6 The Song of Life.md",
-    "300 Gaming/Yakuza 5.md",
-    "300 Gaming/Yakuza 4.md"
+    "300 Gaming/Yakuza Kiwami.md"
   ]
 }
