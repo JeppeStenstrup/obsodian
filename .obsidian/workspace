@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "300 Gaming.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag",
+                "query": "tag:#game/playing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "300 Gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Home.md",
+                "file": "300 Gaming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +212,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9fd491f6735e0fb6",
+  "active": "05ad99d333413f3d",
   "lastOpenFiles": [
-    "Co-op.md",
+    "200 Technology/Programming/XML Serialization.md",
+    "200 Technology/Programming/Xml configs to serialize.md",
+    "000 Daily Notes/08-07-2022.md",
+    "000 Daily Notes/09-07-2022.md",
+    "000 Daily Notes/10-07-2022.md",
+    "000 Daily Notes/12-07-2022.md",
     "300 Gaming.md",
-    "Multi-Player.md",
-    "300 Gaming/Single-Player.md",
-    "300 Gaming/Saints Row IV.md",
-    "300 Gaming/A Way Out.md",
-    "Lost passion.md",
     "000 Home.md",
-    "300 Gaming/The Gunk.md",
-    "000 Daily Notes/11-07-2022.md"
+    "200 Technology.md",
+    "300 Gaming/Co-op.md"
   ]
 }

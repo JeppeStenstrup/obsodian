@@ -15,7 +15,7 @@ using System.Xml.Serialization;
 
 ## Example
 
-```xml:XML
+```xml:XML(Cars.xml)
 <Cars>
   <Car>
     <StockNumber>1020</StockNumber>
@@ -54,7 +54,7 @@ public class Car
 List<Cars> cars = new();
 
 XmlSerializer serializer = new XmlSerializer(typeof(Cars));
-using (TextReader reader = new StringReader("<XML data string>"))
+using (TextReader reader = new StringReader("Cars.xml"))
 {
 	cars = serializer.Deserialize(reader) as List<Cars>;
 }
