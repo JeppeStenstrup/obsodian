@@ -1,2 +1,2 @@
-[[<%tp.date.yesterday("DD-MM-YYYY")%>]] $\Leftarrow$ <% await tp.file.title %> $\Rightarrow$ [[<%tp.date.tomorrow("DD-MM-YYYY")%>]]
+[[<%await tp.date.now("DD-MM-YYYY", -1, tp.file.title, "DD-MM-YYYY")%>]] $\Leftarrow$ <% await tp.file.title %> $\Rightarrow$ [[<%await tp.date.now("DD-MM-YYYY", 1, tp.file.title, "DD-MM-YYYY")%>]]
 
