@@ -4,7 +4,7 @@ aliases: C#
 
 [[200 Technology]]
 
-# C Sharp
+# C#
 ## Contents
 - [[Class]]
 - [[Struct]]
@@ -15,4 +15,5 @@ aliases: C#
 - [[Command Query Responsibility Segregation]]
 - [[Parameter Binding]]
 - [[XML Serialization]]
+	- [[WIQL]]
 - [[Coloring the console]]

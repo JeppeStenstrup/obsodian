@@ -4,7 +4,7 @@
 ## Game Development
 - [[Unreal Engine]]
 ## Programming
-- [[C Sharp]]
+- [[C Sharp|C#]]
 - [[JavaScript]]
 - [[Rust]]
 ## Privacy

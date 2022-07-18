@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b3417e96dfeea1e1",
+        "id": "675ed1007387451e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/15-07-2022.md",
-            "mode": "source"
+            "file": "200 Technology/Programming/MOCs/C Sharp.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/15-07-2022.md",
+                "file": "200 Technology/Programming/MOCs/C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/15-07-2022.md",
+                "file": "200 Technology/Programming/MOCs/C Sharp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +212,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b3417e96dfeea1e1",
+  "active": "675ed1007387451e",
   "lastOpenFiles": [
-    "000 Daily Notes/23-07-2022.md",
-    "_templates/Daily Notes template.md",
-    "000 Daily Notes/15-07-2022.md",
-    "000 Daily Notes/16-07-2022.md",
-    "000 Daily Notes/14-07-2022.md",
-    "000 Daily Notes/13-07-2022.md",
-    "000 Daily Notes/12-07-2022.md",
-    "000 Daily Notes/11-07-2022.md",
+    "200 Technology.md",
     "300 Gaming.md",
-    "200 Technology/Programming/XML Serialization.md"
+    "000 Daily Notes/18-07-2022.md",
+    "000 Daily Notes/17-07-2022.md",
+    "000 Daily Notes/16-07-2022.md",
+    "000 Daily Notes/15-07-2022.md",
+    "000 Daily Notes/13-07-2022.md",
+    "000 Daily Notes/11-07-2022.md",
+    "000 Daily Notes/12-07-2022.md",
+    "000 Daily Notes/14-07-2022.md"
   ]
 }
