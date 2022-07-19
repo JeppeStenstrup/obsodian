@@ -11,4 +11,6 @@
 -  [[300 Gaming#Series|Series]] -- #game/series 
 
 ## [[400 Projects]]
-- [[Timeline]]
+- [[400 Projects#Ongoing|Ongoing]] -- #project/ongoing 
+- [[400 Projects#Finished|Finished]] -- #project/finished 
+- [[400 Projects#Planned|Planned]] -- #project/planned 

@@ -7,8 +7,11 @@
         "id": "66d6a4d4a6e78c09",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "400 Projects.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "400 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "400 Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,15 +221,15 @@
   },
   "active": "66d6a4d4a6e78c09",
   "lastOpenFiles": [
-    "000 Home.md",
-    "400 Projects.md",
-    "000 Daily Notes/19-07-2022.md",
+    "_templates/Project template.md",
     "400 Projects/Timeline/Timeline.md",
-    "300 Gaming/Donut County.md",
-    "400 Projects/Timeline.md",
+    "400 Projects.md",
     "300 Gaming.md",
-    "Xbox.md",
-    "000 Daily Notes/18-07-2022.md",
-    "200 Technology.md"
+    "000 Home.md",
+    "_templates/Game template.md",
+    "300 Gaming/A Way Out.md",
+    "300 Gaming/Yakuza 0.md",
+    "000 Daily Notes/19-07-2022.md",
+    "300 Gaming/Donut County.md"
   ]
 }
