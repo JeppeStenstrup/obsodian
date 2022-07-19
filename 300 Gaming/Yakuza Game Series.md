@@ -1,6 +1,7 @@
 [[300 Gaming]]
 
 Tags:: #game/series
+Genres:: [[Single-Player]]
 
 # Yakuza Game Series
 ```dataview

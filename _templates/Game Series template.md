@@ -1,6 +1,7 @@
 <%"["%>[300 Gaming]<%"]"%>
 
 Tags:: <%"#"%>game/series
+Genres:: 
 
 # <%await tp.file.title%>
 ```dataview

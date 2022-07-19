@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "400 Projects.md",
+            "file": "300 Gaming.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Projects.md",
+                "file": "300 Gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "400 Projects.md",
+                "file": "300 Gaming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "66d6a4d4a6e78c09",
   "lastOpenFiles": [
+    "300 Gaming/Yakuza Game Series.md",
+    "300 Gaming/Saints Row Game Series.md",
+    "_templates/Game Series template.md",
+    "000 Daily Notes/17-07-2022.md",
+    "400 Projects.md",
     "_templates/Project template.md",
     "400 Projects/Timeline/Timeline.md",
-    "400 Projects.md",
     "300 Gaming.md",
     "000 Home.md",
-    "_templates/Game template.md",
-    "300 Gaming/A Way Out.md",
-    "300 Gaming/Yakuza 0.md",
-    "000 Daily Notes/19-07-2022.md",
-    "300 Gaming/Donut County.md"
+    "_templates/Game template.md"
   ]
 }
