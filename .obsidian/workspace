@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66d6a4d4a6e78c09",
+        "id": "6c5accc5392c48a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/20-07-2022.md",
+            "file": "000 Daily Notes/26-07-2022.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/20-07-2022.md",
+                "file": "000 Daily Notes/26-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/20-07-2022.md",
+                "file": "000 Daily Notes/26-07-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "file:000 Home",
@@ -188,13 +188,6 @@
                         "a": 1,
                         "rgb": 16731582
                       }
-                    },
-                    {
-                      "query": "path:\"400 Projects\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2424776
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -219,17 +212,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "66d6a4d4a6e78c09",
+  "active": "6c5accc5392c48a0",
   "lastOpenFiles": [
-    "300 Gaming.md",
-    "300 Gaming/Yakuza Game Series.md",
-    "300 Gaming/Saints Row Game Series.md",
-    "_templates/Game Series template.md",
-    "000 Daily Notes/17-07-2022.md",
-    "400 Projects.md",
-    "_templates/Project template.md",
-    "400 Projects/Timeline/Timeline.md",
+    "000 Daily Notes/26-07-2022.md",
+    "000 Daily Notes/25-07-2022.md",
+    "000 Daily Notes/24-07-2022.md",
+    "000 Daily Notes/23-07-2022.md",
+    "000 Daily Notes/22-07-2022.md",
+    "000 Daily Notes/21-07-2022.md",
     "000 Home.md",
-    "_templates/Game template.md"
+    "000 Daily Notes/18-07-2022.md",
+    "100 University.md",
+    "200 Technology/Programming/XML Serialization.md"
   ]
 }

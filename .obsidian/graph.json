@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:000 Home",
@@ -62,13 +62,6 @@
         "a": 1,
         "rgb": 16731582
       }
-    },
-    {
-      "query": "path:\"400 Projects\"",
-      "color": {
-        "a": 1,
-        "rgb": 2424776
-      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816443,
+  "scale": 0.2588386562181641,
   "close": true
 }
