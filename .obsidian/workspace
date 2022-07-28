@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5ce2f246a99b61",
+        "id": "14dc6dbe3900086b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/28-07-2022.md",
-            "mode": "preview"
+            "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/28-07-2022.md",
+                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/28-07-2022.md",
+                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,17 +219,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8a5ce2f246a99b61",
+  "active": "14dc6dbe3900086b",
   "lastOpenFiles": [
+    "000 Daily Notes/28-07-2022.md",
+    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+    "400 Projects.md",
+    "200 Technology/Programming/XML Serialization.md",
+    "400 Projects/Personal/Timeline/Timeline.md",
+    "400 Projects/Vitec Aloc/Vitec Aloc.md",
     "000 Daily Notes/27-07-2022.md",
     "000 Home.md",
     "000 Daily Notes/20-07-2022.md",
-    "300 Gaming.md",
-    "300 Gaming/Yakuza Game Series.md",
-    "300 Gaming/Saints Row Game Series.md",
-    "_templates/Game Series template.md",
-    "000 Daily Notes/17-07-2022.md",
-    "400 Projects.md",
-    "_templates/Project template.md"
+    "300 Gaming.md"
   ]
 }
