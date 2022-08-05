@@ -1,0 +1,1 @@
+I decided to run my first half marathon this year. In order for me to stay on top of my workouts, I made a running tracker. I utilized relations, roll-ups and a lot of formulas to achieve an automatic pace calculation, so minimum information is needed for one to insert.

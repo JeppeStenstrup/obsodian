@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
-            "mode": "source"
+            "file": "200 Technology/Programming/Xml configs to serialize.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+                "file": "200 Technology/Programming/Xml configs to serialize.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "14dc6dbe3900086b",
   "lastOpenFiles": [
-    "000 Daily Notes/28-07-2022.md",
     "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
-    "400 Projects.md",
-    "200 Technology/Programming/XML Serialization.md",
-    "400 Projects/Personal/Timeline/Timeline.md",
-    "400 Projects/Vitec Aloc/Vitec Aloc.md",
-    "000 Daily Notes/27-07-2022.md",
-    "000 Home.md",
-    "000 Daily Notes/20-07-2022.md",
-    "300 Gaming.md"
+    "000 Daily Notes/02-08-2022.md",
+    "000 Daily Notes/01-08-2022.md",
+    "200 Technology/Programming/Xml configs to serialize.md",
+    "000 Daily Notes/31-07-2022.md",
+    "000 Daily Notes/30-07-2022.md",
+    "000 Daily Notes/29-07-2022.md",
+    "000 Daily Notes/28-07-2022.md",
+    "c.md",
+    "z.md"
   ]
 }

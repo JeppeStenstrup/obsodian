@@ -1,0 +1,1 @@
+Primarily notes from uni, work, and tasks for a projects in a kanban. Secondarily I use it for tracking finances and fitness. The relations and roll-ups makes it easy to make a budget, attach purchases to it and sum up to automatically get an overview.
