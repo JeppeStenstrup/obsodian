@@ -4,13 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14dc6dbe3900086b",
+        "id": "ed5557e00dc3c495",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "cf85d480a3188cb3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "200 Technology/Programming/Xml configs to serialize.md",
-            "mode": "preview"
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Technology/Programming/Xml configs to serialize.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +114,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e47c047b501417e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d293878f7e318d33",
@@ -120,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Technology/Programming/Xml configs to serialize.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +148,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "file:000 Home",
@@ -188,13 +205,6 @@
                         "a": 1,
                         "rgb": 16731582
                       }
-                    },
-                    {
-                      "query": "path:\"400 Projects\"",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2424776
-                      }
                     }
                   ],
                   "collapse-display": true,
@@ -219,17 +229,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "14dc6dbe3900086b",
+  "active": "cf85d480a3188cb3",
   "lastOpenFiles": [
-    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
-    "000 Daily Notes/02-08-2022.md",
-    "000 Daily Notes/01-08-2022.md",
-    "200 Technology/Programming/Xml configs to serialize.md",
-    "000 Daily Notes/31-07-2022.md",
-    "000 Daily Notes/30-07-2022.md",
     "000 Daily Notes/29-07-2022.md",
+    "400 Projects/Personal/Timeline/Timeline.md",
+    "400 Projects/Personal/Timeline/Timeline README.md",
+    "000 Home.md",
     "000 Daily Notes/28-07-2022.md",
-    "c.md",
-    "z.md"
+    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+    "000 Daily Notes/26-07-2022.md",
+    "000 Daily Notes/25-07-2022.md",
+    "000 Daily Notes/24-07-2022.md",
+    "000 Daily Notes/23-07-2022.md"
   ]
 }
