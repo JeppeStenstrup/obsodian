@@ -67,11 +67,7 @@
       "query": "path:\"400 Projects\"",
       "color": {
         "a": 1,
-<<<<<<< Updated upstream
         "rgb": 2424776
-=======
-        "rgb": 3964719
->>>>>>> Stashed changes
       }
     }
   ],
@@ -85,11 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< Updated upstream
   "scale": 0.25883865621816443,
   "close": true
-=======
-  "scale": 0.2588386562181641,
-  "close": false
->>>>>>> Stashed changes
 }

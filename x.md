@@ -1,1 +1,0 @@
-As a software engineer it's nice to have a note taking software with a string foundation of built in features, where programming paradigms and knowledge can be applied to further customize and streamline the different workflows required throughout the day, at work or uni.

@@ -1,1 +1,0 @@
-Don't be afraid to create too many databases. And don't be afraid to ask the community either here or on Reddit. There's always a bunch waiting to help you! If you have an idea for a dashboard or setup, it's possible. It might just need a different approach.
