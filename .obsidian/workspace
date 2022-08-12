@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "acc1c4fff91747ff",
+        "id": "ba4322897de284c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/10-08-2022.md",
-            "mode": "preview"
+            "file": "000 Daily Notes/12-08-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/10-08-2022.md",
+                "file": "000 Daily Notes/12-08-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/10-08-2022.md",
+                "file": "000 Daily Notes/12-08-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,17 +219,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "acc1c4fff91747ff",
+  "active": "ba4322897de284c3",
   "lastOpenFiles": [
-    "000 Home.md",
+    "000 Daily Notes/12-08-2022.md",
+    "12-08-2022.md",
+    "000 Daily Notes/11-08-2022.md",
     "000 Daily Notes/10-08-2022.md",
+    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+    "000 Home.md",
     "000 Daily Notes/03-08-2022.md",
     "000 Daily Notes/02-08-2022.md",
     "000 Daily Notes/04-08-2022.md",
-    "000 Daily Notes/05-08-2022.md",
-    "000 Daily Notes/08-08-2022.md",
-    "000 Daily Notes/09-08-2022.md",
-    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
-    "400 Projects.md"
+    "000 Daily Notes/05-08-2022.md"
   ]
 }
