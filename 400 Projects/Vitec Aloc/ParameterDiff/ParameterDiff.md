@@ -10,9 +10,9 @@ Status:: #project/ongoing
 
 [[Xml configs to serialize|Serialized configs]]
 
-Compare .cfg against .master and compile differences in a template config for each master.
+Compare `.cfg` against `.master` and compile differences in a template config for each master.
 
-Output format unknown, might be XML.
+Output format unknown, might be [[XML]].
 
 ```cs:Pseudo:
 foreach(var conf in configs)
