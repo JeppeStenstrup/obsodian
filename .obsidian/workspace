@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/25-08-2022.md",
+            "file": "400 Projects/Vitec Aloc/MicDataUpdater.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/25-08-2022.md",
+                "file": "400 Projects/Vitec Aloc/MicDataUpdater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/25-08-2022.md",
+                "file": "400 Projects/Vitec Aloc/MicDataUpdater.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "ba4322897de284c3",
   "lastOpenFiles": [
+    "000 Daily Notes/26-08-2022.md",
+    "400 Projects/Vitec Aloc/MicDataUpdater.md",
     "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+    "400 Projects.md",
+    "000 Daily Notes/25-08-2022.md",
     "000 Daily Notes/24-08-2022.md",
     "000 Daily Notes/23-08-2022.md",
     "000 Daily Notes/22-08-2022.md",
     "000 Daily Notes/21-08-2022.md",
-    "000 Daily Notes/20-08-2022.md",
-    "000 Daily Notes/19-08-2022.md",
-    "000 Daily Notes/18-08-2022.md",
-    "000 Daily Notes/17-08-2022.md",
-    "000 Daily Notes/16-08-2022.md"
+    "000 Daily Notes/20-08-2022.md"
   ]
 }
