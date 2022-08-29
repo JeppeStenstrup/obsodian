@@ -9,8 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "000 Home.md",
             "mode": "preview"
+=======
+            "file": "400 Projects/Personal/Timeline/Timeline README.md",
+            "mode": "source"
+>>>>>>> Stashed changes
           }
         }
       }
@@ -40,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#game/playing",
+                "query": "tag:#project/ongoing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "400 Projects/Personal/Timeline/Timeline README.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +137,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "400 Projects/Personal/Timeline/Timeline README.md",
+>>>>>>> Stashed changes
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +232,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< Updated upstream
   "active": "9ceadde9c337a044",
   "lastOpenFiles": [
     "000 Home.md",
@@ -231,5 +245,19 @@
     "000 Daily Notes/26-07-2022.md",
     "000 Daily Notes/25-07-2022.md",
     "000 Daily Notes/24-07-2022.md"
+=======
+  "active": "05ad99d333413f3d",
+  "lastOpenFiles": [
+    "400 Projects/Personal/Timeline/Timeline.md",
+    "200 Technology.md",
+    "400 Projects/Personal/Timeline/Timeline README.md",
+    "000 Daily Notes/26-08-2022.md",
+    "400 Projects/Vitec Aloc/MicDataUpdater/MicDataUpdater.md",
+    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+    "400 Projects.md",
+    "000 Daily Notes/25-08-2022.md",
+    "000 Daily Notes/24-08-2022.md",
+    "000 Daily Notes/23-08-2022.md"
+>>>>>>> Stashed changes
   ]
 }
