@@ -11,5 +11,5 @@
 - [[Ingeniørfagets videnskabsteori]]
 
 ## 7th semester
-- [[Software Maintenance MOC]]
-- [[Deep Learning MOC]]
+- [[Software Maintenance]]
+- [[Deep Learning]]
