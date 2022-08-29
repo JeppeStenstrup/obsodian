@@ -2,7 +2,7 @@
 
 # Software Maintenance
 Resources:
-- 
+
 
 ## Top level notes
 - 

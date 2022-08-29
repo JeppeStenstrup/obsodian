@@ -2,7 +2,7 @@
 
 # Deep Learning
 Resources:
-- 
+
 
 ## Top level notes
 - 
