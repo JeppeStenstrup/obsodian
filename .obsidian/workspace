@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Daily Notes/29-08-2022.md",
+            "file": "000 Daily Notes/30-08-2022.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Daily Notes/29-08-2022.md",
+                "file": "000 Daily Notes/30-08-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Daily Notes/29-08-2022.md",
+                "file": "000 Daily Notes/30-08-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,6 +221,7 @@
   },
   "active": "a5e1076a82a10917",
   "lastOpenFiles": [
+    "000 Daily Notes/29-08-2022.md",
     "100 University.md",
     "100 University/Deep Learning/Deep Learning.md",
     "100 University/Software Maintenance/Software Maintenance.md",
@@ -228,7 +229,6 @@
     "100 University/Algorithms and Datastructures/Algorithms and Datastructures.md",
     "Untitled.md",
     "400 Projects/Personal/Timeline/Timeline README.md",
-    "000 Daily Notes/29-08-2022.md",
     "Justin, Effective.md",
     "000 Daily Notes/28-08-2022.md"
   ]
