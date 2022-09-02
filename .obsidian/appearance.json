@@ -7,5 +7,6 @@
   ],
   "interfaceFontFamily": "Segoe UI",
   "textFontFamily": "Segoe UI",
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 16
 }

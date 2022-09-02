@@ -25,3 +25,6 @@ foreach(var conf in configs)
 }
 ```
 
+```dataview
+list from [[ParameterDiff]]
+```
