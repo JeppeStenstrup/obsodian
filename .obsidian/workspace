@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+            "file": "000 Home.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
+                "file": "000 Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,15 +221,15 @@
   },
   "active": "a5e1076a82a10917",
   "lastOpenFiles": [
+    "100 University.md",
+    "000 Home.md",
+    "Why project management is crucial.md",
+    "000 Daily Notes/05-09-2022.md",
+    "000 Daily Notes/04-09-2022.md",
+    "000 Daily Notes/03-09-2022.md",
+    "400 Projects/Vitec Aloc/ParameterDiff/ParameterDiff.md",
     "000 Daily Notes/02-09-2022.md",
     "400 Projects/Vitec Aloc/MicDataUpdater/MicDataUpdater.md",
-    "100 University/Software Maintenance/Software Maintenance.md",
-    "999 Authors/Ogden Nash.md",
-    "000 Daily Notes/31-08-2022.md",
-    "000 Daily Notes/01-09-2022.md",
-    "000 Daily Notes/30-08-2022.md",
-    "000 Daily Notes/29-08-2022.md",
-    "100 University.md",
-    "100 University/Deep Learning/Deep Learning.md"
+    "100 University/Software Maintenance/Software Maintenance.md"
   ]
 }
