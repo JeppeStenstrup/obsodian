@@ -12,6 +12,7 @@ Resources:
 
 ## MOCs
 - [[Software Maintenance Lecture MOC|Lecture MOC]]
+- [[Software Maintenance Lab MOC|Lab Moc]]
 
 ---
 ## Learning objectives

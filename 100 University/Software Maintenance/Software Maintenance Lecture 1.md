@@ -1,3 +1,5 @@
+[[Software Maintenance Lecture MOC]]
+
 # Lecture 1
 
 # Essential Properties
@@ -46,4 +48,7 @@ Properties der kan opstå baseret på den specifikke problemstilling
 
 # Agile Approach
 ![[Pasted image 20220906084720.png]]
-- 
+
+# Agile vs Waterfall
+![[Pasted image 20220906091000.png]]
+

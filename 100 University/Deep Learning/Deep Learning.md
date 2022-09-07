@@ -8,7 +8,8 @@ Resources:
 - 
 
 ## MOCs
-- 
+- [[Deep Learning Lecture MOC|Lecture MOC]]
+- [[Deep Learning Lab MOC|Lab Moc]]
 
 ---
 ## Learning objectives
