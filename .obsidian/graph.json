@@ -6,81 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "file:000 Home",
-      "color": {
-        "a": 1,
-        "rgb": 5092095
-      }
-    },
-    {
-      "query": "path:\"100 University\"",
-      "color": {
-        "a": 1,
-        "rgb": 9495713
-      }
-    },
-    {
-      "query": "path:\"200 Technology\"",
-      "color": {
-        "a": 1,
-        "rgb": 12227553
-      }
-    },
-    {
-      "query": "path:\"300 Gaming\"",
-      "color": {
-        "a": 1,
-        "rgb": 16753152
-      }
-    },
-    {
-      "query": "path:\"999 Quotes\"",
-      "color": {
-        "a": 1,
-        "rgb": 16380755
-      }
-    },
-    {
-      "query": "path:\"999 Authors\"",
-      "color": {
-        "a": 1,
-        "rgb": 16380755
-      }
-    },
-    {
-      "query": "path:\"999 Resources\"",
-      "color": {
-        "a": 1,
-        "rgb": 16380755
-      }
-    },
-    {
-      "query": "path:\"000 Daily Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 16731582
-      }
-    },
-    {
-      "query": "path:\"400 Projects\"",
-      "color": {
-        "a": 1,
-        "rgb": 2424776
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.275510204081633,
+  "repelStrength": 0,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 30,
   "scale": 0.25883865621816443,
-  "close": true
+  "close": false
 }
