@@ -8,7 +8,7 @@ Dataset:
 - Predict movie review sentiment
 - Gate speech classification
 Reading:
-- Notes from [[Stanford CS224n]]
+- Notes from [[Stanford CS224n]] and [[CS231n|Stanford CS231n]]
 - [[GloVe Paper]] (Word embedding)
 
 ## Top level notes
