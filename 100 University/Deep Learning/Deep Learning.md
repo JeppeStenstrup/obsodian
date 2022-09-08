@@ -1,15 +1,15 @@
 [[100 University]]
 
 # Deep Learning
-Resources:
-[[Keras]]/[[TensorFlow]]
-Google Colab
-Dataset:
-- Predict movie review sentiment
-- Gate speech classification
-Reading:
-- Notes from [[Stanford CS224n]] and [[CS231n|Stanford CS231n]]
-- [[GloVe Paper]] (Word embedding)
+## Resources:
+- [[Keras]]/[[TensorFlow]]
+- Google Colab
+- Dataset:
+	- Predict movie review sentiment
+	- Gate speech classification
+- Reading:
+	- Notes from [[Stanford CS224n]] and [[CS231n|Stanford CS231n]]
+	- [[GloVe Paper]] (Word embedding)
 
 ## Top level notes
 - 
