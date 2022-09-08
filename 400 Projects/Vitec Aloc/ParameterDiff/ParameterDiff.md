@@ -20,11 +20,12 @@ foreach(var conf in configs)
 	foreach(var item in conf)
 	{
 		// make case for nested items
-		if item != master.Item { template.Add(master.Item) }
+		if item != master.Item { parameterizedConfigObj.Add(master.Item) }
 	}
 }
 ```
 
 ```dataview
 list from [[ParameterDiff]]
+sort file desc
 ```
