@@ -1,6 +1,10 @@
+[[CS231n]]
+
 [link](https://cs231n.github.io/classification/)
 
-# Motivation
+# Image Classification
+
+## Motivation
 The goal of image classification is to label a given image with one of a fixed set if labels. An example could be the given labels `{cat, dog, hat, mug}`, where the [[Image Classification Model|image classification model]] takes in an image, evaluates it, an assigns a probability score to each if the four labels, i.e. `{cat:82%, dog:15%, hat:2%, mug:1%}`.
 
 ## The image
