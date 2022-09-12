@@ -13,3 +13,18 @@ What are the images in the image classification model's eyes? Number.
 An image is made up of pixels, and those pixels have a mix of red, green, and blue (each with a value of 0-255), which means that for each pixel in a given image, there are 3 values; first layer all red values, second layer all green values, and third layer all blue values.
 
 So an image is a three dimensional matrix, with the size if $\text{image width} \times \text{image height} \times 3$.
+
+## Challenges
+- Viewpoint variation
+	- At which angle are we looking at the cat? Front, side, top, bottom?
+- Scale variation
+	- Is it filling out the whole frame or is it sitting on a fence in a little portion of the image?
+- Deformation
+	- Objects in images can be deformed, could be a cat lying funny, or a lens illusion, i.e. a wide angle lens where edges are stretched or skewed
+- Occlusion
+	- Maybe only part of the subject is visible in the frame, maybe only the cats head is visible
+- Background clutter
+	- Parts of the subject may blend into that surroundings
+- Intra-class variation
+	- The specified subject may be a very large group of objects, i.e. _chair_.
+- ![[Pasted image 20220910204623.png]]
