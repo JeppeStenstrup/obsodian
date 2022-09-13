@@ -28,3 +28,13 @@ So an image is a three dimensional matrix, with the size if $\text{image width} 
 - Intra-class variation
 	- The specified subject may be a very large group of objects, i.e. _chair_.
 - ![[Pasted image 20220910204623.png]]
+
+## Data-driven approach
+The approach to teaching an AI to recognize specific objects in images is not like any other algorithm we've been taught in uni; it's more like how a child would learn.
+
+We bombard the computer with as many pictures of the subjects as we can, and develop learning algorithms that, with iterations, pick up on visual cues of each class of subject.
+
+This approach is called the "Data-driven approach", since it relies on first accumulating as much [[Training data|training data]] as possible, which consists of both the image, and the given subject class.
+
+![[Pasted image 20220913171128.png]]
+
