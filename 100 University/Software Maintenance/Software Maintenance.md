@@ -9,6 +9,8 @@ Resources:
 
 ## Top level notes
 - [[Software Maintenance Phase MOC|Phase MOC]]
+- [[Design Patterns]]
+- [[JHotDraw Outline]]
 
 ## MOCs
 - [[Software Maintenance Lecture MOC|Lecture MOC]]
