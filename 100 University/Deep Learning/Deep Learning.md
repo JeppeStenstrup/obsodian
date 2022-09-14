@@ -12,7 +12,10 @@
 	- [[GloVe Paper]] (Word embedding)
 
 ## Top level notes
-- 
+- [[CS231n - Image Classification|Image Classification]]
+	- [[Nearest Neighbor Classifier]]
+	- [[k-Nearest Neighbor Classifier]]
+- [[CS231n - Linear Classification|Linear Classification]]
 
 ## MOCs
 - [[Deep Learning Lecture MOC|Lecture MOC]]
