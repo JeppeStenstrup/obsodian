@@ -18,7 +18,7 @@ The Nearest Neighbor Classier, when given a test image, will have to compare tha
 In the image above, ten images from each class has been given to the classifier, and the classifier has returned 10 of each class that it predicted to be correct.
 But only 3 in 10 were correct across the board.
 
-Given two images {one training, one test}, and representing them as vectors $I_1$, $I_2$, a reasonable choice for comparing them might be the [[L1 distance]]:
+Given two images {one training, one test}, and representing them as vectors $I_1$, $I_2$, a reasonable choice for comparing them might be the [[L1 distance]] (Manhattan/Taxi Cap Distance):
 
 $$d_1(I_1,I_2)=\sum\limits_{p}|I_1^p-I_2^p|$$
 
@@ -26,9 +26,11 @@ Where the sum is taken over all pixels.
 Visualized:
 ![[Pasted image 20220913193942.png]]
 
+![[Pasted image 20220914083711.png]]
+
 The more like the images are, the smaller the value. When running this in code, the classifier only manages around 38-39%.
 
-Another choice of distance, also common, is using the [[L2 distance]]:
+Another choice of distance, also common, is using the [[L2 distance]] (Euclidean Distance):
 
 $$d_2(I_1,I_2)=\sqrt{\sum\limits_{p}(|I_1^p-I_2^p|)^2}$$
 

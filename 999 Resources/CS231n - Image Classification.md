@@ -1,4 +1,5 @@
 [[CS231n]]
+[[Deep Learning]]
 
 [link](https://cs231n.github.io/classification/)
 

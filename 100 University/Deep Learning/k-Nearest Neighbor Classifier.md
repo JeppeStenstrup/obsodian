@@ -12,7 +12,7 @@ The higher the **k** value is, the _smoother_ and more resistant the classifier 
 In the example $k=5$ was used, but what should the value be, to have the best accuracy?
 
 ## Validation sets for [[Hyperparameter]] tuning
-The L1 and L2 distances from before, is what we call [[Hyperparameter|hyperparameters]]. We could also have used the dot product and a number of other options.
+The [[L1 distance|L1]] and [[L2 distance|L2]] distances from before, is what we call [[Hyperparameter|hyperparameters]]. We could also have used the dot product and a number of other options.
 
 One of the ways to find **k** is to just try out different values, although ideally we _never_ want to touch the dataset, at least not until the end, and touch it that one time.
 
