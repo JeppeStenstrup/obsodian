@@ -1,3 +1,7 @@
+---
+aliases: Concept Location
+---
+
 [[Software Maintenance Phase MOC]]
 
 # Concept Location

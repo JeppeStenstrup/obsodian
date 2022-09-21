@@ -8,11 +8,11 @@
   "templater-obsidian",
   "obsidian-embedded-code-title",
   "obsidian-footnotes",
-  "oz-image-plugin",
   "calendar",
   "hotkeysplus-obsidian",
   "url-into-selection",
   "code-block-copy",
   "obsidian-pandoc",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "oz-image-plugin"
 ]

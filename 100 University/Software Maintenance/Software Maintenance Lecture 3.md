@@ -78,3 +78,7 @@ Determined by reading code and documentation
 
 ## Interactive Tool for Concept Location
 ![[Pasted image 20220920083949.png]]
+
+## Feature Scattering
+$FSCA(F)=\sum\limits_{p\in P} ftang(p), where:fsca($... :/
+
