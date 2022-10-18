@@ -9,3 +9,4 @@ aliases:
 - [[Software Maintenance Lecture 2|Lecture 2]]
 - [[Software Maintenance Lecture 3|Lecture 3]]
 - [[Software Maintenance Lecture 4|Lecture 4]]
+- [[Software Maintenance Lecture 5|Lecture 5]]

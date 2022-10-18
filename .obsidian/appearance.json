@@ -8,5 +8,6 @@
   "interfaceFontFamily": "Segoe UI",
   "textFontFamily": "Segoe UI",
   "translucency": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": ""
 }
