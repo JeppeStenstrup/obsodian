@@ -1,4 +1,5 @@
 {
-  "titleBackgroundColor": "#ededed",
+  "substitutionTokenForSpace": "+",
+  "titleBackgroundColor": "#889EAA",
   "titleFontColor": "black"
 }

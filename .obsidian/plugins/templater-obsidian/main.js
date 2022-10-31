@@ -2580,8 +2580,12 @@ var InternalModuleFile = class extends InternalModule {
   }
   generate_exists() {
     return (filename) => __async(this, null, function* () {
+<<<<<<< Updated upstream
       const path = (0, import_obsidian8.normalizePath)(filename);
       return yield app.vault.exists(path);
+=======
+      return yield app.vault.exists(filename);
+>>>>>>> Stashed changes
     });
   }
   generate_find_tfile() {
@@ -5665,10 +5669,14 @@ var Editor2 = class {
   setup() {
     return __async(this, null, function* () {
       yield this.registerCodeMirrorMode();
+<<<<<<< Updated upstream
       this.plugin.registerEditorSuggest(new Autocomplete());
       if (import_obsidian17.Platform.isDesktopApp && this.plugin.settings.syntax_highlighting) {
         this.plugin.registerEditorExtension(import_language.StreamLanguage.define(window.CodeMirror.getMode({}, { name: "templater" })));
       }
+=======
+      this.plugin.registerEditorSuggest(new Autocomplete(app));
+>>>>>>> Stashed changes
     });
   }
   jump_to_next_cursor_location(file = null, auto_jump = false) {
